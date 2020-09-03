@@ -1,4 +1,4 @@
-n = int(input("Enter the length of the sequence: ")) # Do not change this line
+n = int(input("Enter the length of the sequence: "))
 a = 1
 b = 0
 c = 0
